@@ -17,7 +17,7 @@ const RoomPage = () => {
             sharedLinks: [
               {
                 name: 'copy link link',
-                url:`http:localhost:3000/room/${roomId}`
+                url:`https://zecloudbackend-r1hmzh488-jayakrishnapanga.vercel.app/room/${roomId}`
                  
               },
             ],
